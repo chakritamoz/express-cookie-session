@@ -1,11 +1,11 @@
 {
   "name": "express-cookie-session",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Express labs for cookie-based sessions and role-based authorization",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon server.js"
+    "dev:lab1": "nodemon labs/lab1-cookie-session/server.js",
+    "dev:lab2": "nodemon labs/lab2-authorization/server.js"
   },
   "keywords": [],
   "author": "",
