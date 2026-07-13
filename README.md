@@ -46,12 +46,6 @@ npm install
 Run Lab 1:
 
 ```bash
-npm run dev
-```
-
-or
-
-```bash
 npm run dev:lab1
 ```
 
